@@ -7,7 +7,7 @@ function PublikasiMini(data) {
       <div
         className="flex flex-col rounded-2xl justify-end min-w-[360px] max-w-24 drop-shadow-lg"
         style={{
-          backgroundImage: `url(${data.image})`,
+          backgroundImage: `url(${data.image ? data.image : "https://via.placeholder.com/150"})`,
           backgroundSize: "cover",
           backgroundPosition: "center",
           width: "40vw",

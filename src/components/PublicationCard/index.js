@@ -15,7 +15,7 @@ function PublicationCard({ infoAktual }) {
         {imageUrl && (
           <Image
             className="object-cover"
-            src={imageUrl}
+            src={imageUrl ? imageUrl : "https://via.placeholder.com/150"}
             layout="fill"
             quality={80}
             alt="Tidak ada Gambar"
