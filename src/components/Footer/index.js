@@ -21,7 +21,7 @@ function Footer() {
             <ul className="text-base">
               <li>Telpon: +62 895-8002-50447</li>
               <li>
-                Alamat: Jl. Sultan Hasanuddin No. 93 Barru, Sulawesi Selatan
+                Alamat: VG7V+6QF, Bonto Bunga, Kec. Moncong Loe, Kabupaten Maros, Sulawesi Selatan 90562
               </li>
             </ul>
           </div>
